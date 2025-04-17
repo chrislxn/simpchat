@@ -21,10 +21,10 @@ A **lightweight, mobile-friendly, file-based chatroom** written in PHP — no da
 
 ## 📦 Installation
 
-1. Clone this repo or copy `index.php` to your PHP server directory:
+1. Clone this repo or copy `simpchat.php` to your PHP server directory:
 
 ```bash
-git clone https://github.com/chrislxn/simpchat-php.git
+git clone https://github.com/chrislxn/simpchat.git
 ```
 
 2. Ensure PHP is installed and running.
@@ -82,10 +82,10 @@ Auto-truncate when `chatlog.txt` exceeds 500KB, keeping only the last ~400 lines
 
 ## 📦 安装方法
 
-1. 克隆项目或将 `index.php` 放入你的网站目录：
+1. 克隆项目或将 `simpchat.php` 放入你的网站目录：
 
 ```bash
-git clone https://github.com/chrislxn/simpchat-php.git
+git clone https://github.com/chrislxn/simpchat.git
 ```
 
 2. 确保服务器已安装 PHP
